@@ -1,0 +1,7 @@
+git init			--create local git repo
+git status			--check status
+git add your_file/.		--add a particular file/all files to your staging area
+git commit -m "Note"		--add all items in staging area to your local repo
+git push -u origin master	--push to your repo on website
+git pull			--pull all files from web repo to local repo
+git clone url_of_repo_code	--pull all the project from a repo
